@@ -1,5 +1,4 @@
-#Whitepapper 
------
+#White paper 
 
-Password Date is open source web-application for safety manipulation with passwords.
+Password-safe is open source web-application for safety manipulation with passwords.
 -----
