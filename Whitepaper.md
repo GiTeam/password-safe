@@ -12,9 +12,11 @@ Password-safe is open source web-application for safety manipulation with passwo
 - Some auth tools for 2-factor authorities
 
 ## MVP:
-- product as box with dockerfile for instant install
+- product as box with dockerfiles for fast deploy
 - SSH
-- 2 factor auth
-- maximum safety of database
-- password generator (like random org maybe use API of random.org)
-- ttl for passwors
+- 2-factor auth
+- REST API (+ swagger notation)
+- maximum safety of database (+ list of resource and articles about it)
+- password generator (like random.org maybe use API of random.org)
+- store for passwords with service->account->passwords hierarchy
+- ttl for passwords
