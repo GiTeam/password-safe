@@ -5,8 +5,8 @@ Password-safe is open source web-application for safety manipulation with passwo
 ***
 
 ## Stack of technologies:
-- Lapis (nginx-based web framework with lua)
-- Angular2for ui (newest, fast js-framework)
+- Tokio-rs (rust event-loop based framework)
+- Angular for ui (newest, fast js-framework)
 - LetsEncrypt certbot-auto (for free HTTPSecure)
 - Some Encrypt technologies (?)
 - Some auth tools for 2-factor authorities
