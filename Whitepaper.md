@@ -9,11 +9,12 @@ Password-safe is open source web-application for safety manipulation with passwo
 - Angular for ui (newest, fast js-framework)
 - LetsEncrypt certbot-auto (for free HTTPSecure)
 - Some Encrypt technologies (?)
+- JWT (?)
 - Some auth tools for 2-factor authorities
 
 ## MVP:
 - product as box with dockerfiles for fast deploy
-- SSH
+- SSL
 - 2-factor auth
 - REST API (+ swagger notation)
 - maximum safety of database (+ list of resource and articles about it)
